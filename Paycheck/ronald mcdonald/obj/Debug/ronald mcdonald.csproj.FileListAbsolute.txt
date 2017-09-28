@@ -1,0 +1,6 @@
+C:\Users\velasjos005\Desktop\prgs\ronald mcdonald\ronald mcdonald\obj\Debug\ronald mcdonald.csprojResolveAssemblyReference.cache
+C:\Users\velasjos005\Desktop\prgs\ronald mcdonald\ronald mcdonald\bin\Debug\ronald mcdonald.exe.config
+C:\Users\velasjos005\Desktop\prgs\ronald mcdonald\ronald mcdonald\bin\Debug\ronald mcdonald.exe
+C:\Users\velasjos005\Desktop\prgs\ronald mcdonald\ronald mcdonald\bin\Debug\ronald mcdonald.pdb
+C:\Users\velasjos005\Desktop\prgs\ronald mcdonald\ronald mcdonald\obj\Debug\ronald mcdonald.exe
+C:\Users\velasjos005\Desktop\prgs\ronald mcdonald\ronald mcdonald\obj\Debug\ronald mcdonald.pdb

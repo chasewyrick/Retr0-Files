@@ -1,0 +1,6 @@
+C:\Users\velasjos005\Desktop\plain jane\plain jane\bin\Debug\plain jane.exe.config
+C:\Users\velasjos005\Desktop\plain jane\plain jane\bin\Debug\plain jane.exe
+C:\Users\velasjos005\Desktop\plain jane\plain jane\bin\Debug\plain jane.pdb
+C:\Users\velasjos005\Desktop\plain jane\plain jane\obj\Debug\plain jane.csprojResolveAssemblyReference.cache
+C:\Users\velasjos005\Desktop\plain jane\plain jane\obj\Debug\plain jane.exe
+C:\Users\velasjos005\Desktop\plain jane\plain jane\obj\Debug\plain jane.pdb

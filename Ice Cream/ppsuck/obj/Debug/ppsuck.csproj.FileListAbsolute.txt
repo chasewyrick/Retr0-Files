@@ -1,0 +1,6 @@
+C:\Users\velasjos005\Desktop\ppsuck\ppsuck\bin\Debug\ppsuck.exe.config
+C:\Users\velasjos005\Desktop\ppsuck\ppsuck\bin\Debug\ppsuck.exe
+C:\Users\velasjos005\Desktop\ppsuck\ppsuck\bin\Debug\ppsuck.pdb
+C:\Users\velasjos005\Desktop\ppsuck\ppsuck\obj\Debug\ppsuck.csprojResolveAssemblyReference.cache
+C:\Users\velasjos005\Desktop\ppsuck\ppsuck\obj\Debug\ppsuck.exe
+C:\Users\velasjos005\Desktop\ppsuck\ppsuck\obj\Debug\ppsuck.pdb

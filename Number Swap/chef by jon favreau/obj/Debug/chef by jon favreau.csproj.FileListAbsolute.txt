@@ -1,0 +1,6 @@
+C:\Users\velasjos005\Desktop\prgs\chef by jon favreau\chef by jon favreau\bin\Debug\chef by jon favreau.exe.config
+C:\Users\velasjos005\Desktop\prgs\chef by jon favreau\chef by jon favreau\bin\Debug\chef by jon favreau.exe
+C:\Users\velasjos005\Desktop\prgs\chef by jon favreau\chef by jon favreau\bin\Debug\chef by jon favreau.pdb
+C:\Users\velasjos005\Desktop\prgs\chef by jon favreau\chef by jon favreau\obj\Debug\chef by jon favreau.csprojResolveAssemblyReference.cache
+C:\Users\velasjos005\Desktop\prgs\chef by jon favreau\chef by jon favreau\obj\Debug\chef by jon favreau.exe
+C:\Users\velasjos005\Desktop\prgs\chef by jon favreau\chef by jon favreau\obj\Debug\chef by jon favreau.pdb
