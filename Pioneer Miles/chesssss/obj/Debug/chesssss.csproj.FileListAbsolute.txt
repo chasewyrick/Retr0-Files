@@ -1,0 +1,6 @@
+C:\Users\velasjos005\Desktop\prgs\chesssss\chesssss\bin\Debug\chesssss.exe.config
+C:\Users\velasjos005\Desktop\prgs\chesssss\chesssss\bin\Debug\chesssss.exe
+C:\Users\velasjos005\Desktop\prgs\chesssss\chesssss\bin\Debug\chesssss.pdb
+C:\Users\velasjos005\Desktop\prgs\chesssss\chesssss\obj\Debug\chesssss.csprojResolveAssemblyReference.cache
+C:\Users\velasjos005\Desktop\prgs\chesssss\chesssss\obj\Debug\chesssss.exe
+C:\Users\velasjos005\Desktop\prgs\chesssss\chesssss\obj\Debug\chesssss.pdb

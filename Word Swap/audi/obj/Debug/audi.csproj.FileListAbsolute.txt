@@ -1,0 +1,6 @@
+C:\Users\velasjos005\Desktop\audi\audi\bin\Debug\audi.exe.config
+C:\Users\velasjos005\Desktop\audi\audi\bin\Debug\audi.exe
+C:\Users\velasjos005\Desktop\audi\audi\bin\Debug\audi.pdb
+C:\Users\velasjos005\Desktop\audi\audi\obj\Debug\audi.csprojResolveAssemblyReference.cache
+C:\Users\velasjos005\Desktop\audi\audi\obj\Debug\audi.exe
+C:\Users\velasjos005\Desktop\audi\audi\obj\Debug\audi.pdb

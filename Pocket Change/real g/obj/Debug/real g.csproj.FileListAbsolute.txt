@@ -1,0 +1,6 @@
+C:\Users\velasjos005\Desktop\prgs\real g\real g\bin\Debug\real g.exe.config
+C:\Users\velasjos005\Desktop\prgs\real g\real g\bin\Debug\real g.exe
+C:\Users\velasjos005\Desktop\prgs\real g\real g\bin\Debug\real g.pdb
+C:\Users\velasjos005\Desktop\prgs\real g\real g\obj\Debug\real g.csprojResolveAssemblyReference.cache
+C:\Users\velasjos005\Desktop\prgs\real g\real g\obj\Debug\real g.exe
+C:\Users\velasjos005\Desktop\prgs\real g\real g\obj\Debug\real g.pdb

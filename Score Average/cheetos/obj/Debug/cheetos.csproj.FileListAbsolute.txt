@@ -1,0 +1,6 @@
+C:\Users\velasjos005\Desktop\prgs\cheetos\cheetos\bin\Debug\cheetos.exe.config
+C:\Users\velasjos005\Desktop\prgs\cheetos\cheetos\bin\Debug\cheetos.exe
+C:\Users\velasjos005\Desktop\prgs\cheetos\cheetos\bin\Debug\cheetos.pdb
+C:\Users\velasjos005\Desktop\prgs\cheetos\cheetos\obj\Debug\cheetos.csprojResolveAssemblyReference.cache
+C:\Users\velasjos005\Desktop\prgs\cheetos\cheetos\obj\Debug\cheetos.exe
+C:\Users\velasjos005\Desktop\prgs\cheetos\cheetos\obj\Debug\cheetos.pdb
