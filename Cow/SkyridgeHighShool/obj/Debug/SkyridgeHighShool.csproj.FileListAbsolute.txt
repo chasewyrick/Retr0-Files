@@ -1,0 +1,6 @@
+C:\Users\velasjos005\Desktop\SkyridgeHighShool\SkyridgeHighShool\bin\Debug\SkyridgeHighShool.exe.config
+C:\Users\velasjos005\Desktop\SkyridgeHighShool\SkyridgeHighShool\bin\Debug\SkyridgeHighShool.exe
+C:\Users\velasjos005\Desktop\SkyridgeHighShool\SkyridgeHighShool\bin\Debug\SkyridgeHighShool.pdb
+C:\Users\velasjos005\Desktop\SkyridgeHighShool\SkyridgeHighShool\obj\Debug\SkyridgeHighShool.csprojResolveAssemblyReference.cache
+C:\Users\velasjos005\Desktop\SkyridgeHighShool\SkyridgeHighShool\obj\Debug\SkyridgeHighShool.exe
+C:\Users\velasjos005\Desktop\SkyridgeHighShool\SkyridgeHighShool\obj\Debug\SkyridgeHighShool.pdb

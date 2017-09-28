@@ -1,0 +1,6 @@
+C:\Users\velasjos005\Desktop\prgs\Chicken Coop\Chicken Coop\bin\Debug\Chicken Coop.exe.config
+C:\Users\velasjos005\Desktop\prgs\Chicken Coop\Chicken Coop\bin\Debug\Chicken Coop.exe
+C:\Users\velasjos005\Desktop\prgs\Chicken Coop\Chicken Coop\bin\Debug\Chicken Coop.pdb
+C:\Users\velasjos005\Desktop\prgs\Chicken Coop\Chicken Coop\obj\Debug\Chicken Coop.csprojResolveAssemblyReference.cache
+C:\Users\velasjos005\Desktop\prgs\Chicken Coop\Chicken Coop\obj\Debug\Chicken Coop.exe
+C:\Users\velasjos005\Desktop\prgs\Chicken Coop\Chicken Coop\obj\Debug\Chicken Coop.pdb

@@ -1,0 +1,6 @@
+C:\Users\velasjos005\Desktop\prgs\Fahrenheit to Celsius\Fahrenheit to Celsius\bin\Debug\Fahrenheit to Celsius.exe.config
+C:\Users\velasjos005\Desktop\prgs\Fahrenheit to Celsius\Fahrenheit to Celsius\bin\Debug\Fahrenheit to Celsius.exe
+C:\Users\velasjos005\Desktop\prgs\Fahrenheit to Celsius\Fahrenheit to Celsius\bin\Debug\Fahrenheit to Celsius.pdb
+C:\Users\velasjos005\Desktop\prgs\Fahrenheit to Celsius\Fahrenheit to Celsius\obj\Debug\Fahrenheit to Celsius.csprojResolveAssemblyReference.cache
+C:\Users\velasjos005\Desktop\prgs\Fahrenheit to Celsius\Fahrenheit to Celsius\obj\Debug\Fahrenheit to Celsius.exe
+C:\Users\velasjos005\Desktop\prgs\Fahrenheit to Celsius\Fahrenheit to Celsius\obj\Debug\Fahrenheit to Celsius.pdb

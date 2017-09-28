@@ -1,0 +1,6 @@
+C:\Users\velasjos005\Desktop\prgs\inception\inception\bin\Debug\inception.exe.config
+C:\Users\velasjos005\Desktop\prgs\inception\inception\bin\Debug\inception.exe
+C:\Users\velasjos005\Desktop\prgs\inception\inception\bin\Debug\inception.pdb
+C:\Users\velasjos005\Desktop\prgs\inception\inception\obj\Debug\inception.csprojResolveAssemblyReference.cache
+C:\Users\velasjos005\Desktop\prgs\inception\inception\obj\Debug\inception.exe
+C:\Users\velasjos005\Desktop\prgs\inception\inception\obj\Debug\inception.pdb
