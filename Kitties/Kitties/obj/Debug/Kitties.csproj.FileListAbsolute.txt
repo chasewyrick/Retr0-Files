@@ -1,0 +1,6 @@
+C:\Users\velasjos005\Desktop\prgs\Kitties\Kitties\bin\Debug\Kitties.exe.config
+C:\Users\velasjos005\Desktop\prgs\Kitties\Kitties\bin\Debug\Kitties.exe
+C:\Users\velasjos005\Desktop\prgs\Kitties\Kitties\bin\Debug\Kitties.pdb
+C:\Users\velasjos005\Desktop\prgs\Kitties\Kitties\obj\Debug\Kitties.csprojResolveAssemblyReference.cache
+C:\Users\velasjos005\Desktop\prgs\Kitties\Kitties\obj\Debug\Kitties.exe
+C:\Users\velasjos005\Desktop\prgs\Kitties\Kitties\obj\Debug\Kitties.pdb
