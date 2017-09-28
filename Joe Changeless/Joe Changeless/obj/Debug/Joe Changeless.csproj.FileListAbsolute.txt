@@ -1,0 +1,6 @@
+C:\Users\velasjos005\Desktop\prgs\Joe Changeless\Joe Changeless\bin\Debug\Joe Changeless.exe.config
+C:\Users\velasjos005\Desktop\prgs\Joe Changeless\Joe Changeless\bin\Debug\Joe Changeless.exe
+C:\Users\velasjos005\Desktop\prgs\Joe Changeless\Joe Changeless\bin\Debug\Joe Changeless.pdb
+C:\Users\velasjos005\Desktop\prgs\Joe Changeless\Joe Changeless\obj\Debug\Joe Changeless.csprojResolveAssemblyReference.cache
+C:\Users\velasjos005\Desktop\prgs\Joe Changeless\Joe Changeless\obj\Debug\Joe Changeless.exe
+C:\Users\velasjos005\Desktop\prgs\Joe Changeless\Joe Changeless\obj\Debug\Joe Changeless.pdb
