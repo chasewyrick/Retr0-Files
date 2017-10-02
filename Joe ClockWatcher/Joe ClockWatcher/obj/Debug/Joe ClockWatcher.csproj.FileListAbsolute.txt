@@ -1,0 +1,12 @@
+c:\users\velasjos005\documents\visual studio 2017\Projects\Joe ClockWatcher\Joe ClockWatcher\bin\Debug\Joe ClockWatcher.exe.config
+c:\users\velasjos005\documents\visual studio 2017\Projects\Joe ClockWatcher\Joe ClockWatcher\bin\Debug\Joe ClockWatcher.exe
+c:\users\velasjos005\documents\visual studio 2017\Projects\Joe ClockWatcher\Joe ClockWatcher\bin\Debug\Joe ClockWatcher.pdb
+c:\users\velasjos005\documents\visual studio 2017\Projects\Joe ClockWatcher\Joe ClockWatcher\obj\Debug\Joe ClockWatcher.csprojResolveAssemblyReference.cache
+c:\users\velasjos005\documents\visual studio 2017\Projects\Joe ClockWatcher\Joe ClockWatcher\obj\Debug\Joe ClockWatcher.exe
+c:\users\velasjos005\documents\visual studio 2017\Projects\Joe ClockWatcher\Joe ClockWatcher\obj\Debug\Joe ClockWatcher.pdb
+C:\Users\Velasjos005\Desktop\Joe ClockWatcher\Joe ClockWatcher\bin\Debug\Joe ClockWatcher.exe.config
+C:\Users\Velasjos005\Desktop\Joe ClockWatcher\Joe ClockWatcher\obj\Debug\Joe ClockWatcher.exe
+C:\Users\Velasjos005\Desktop\Joe ClockWatcher\Joe ClockWatcher\obj\Debug\Joe ClockWatcher.pdb
+C:\Users\Velasjos005\Desktop\Joe ClockWatcher\Joe ClockWatcher\bin\Debug\Joe ClockWatcher.exe
+C:\Users\Velasjos005\Desktop\Joe ClockWatcher\Joe ClockWatcher\bin\Debug\Joe ClockWatcher.pdb
+C:\Users\Velasjos005\Desktop\Joe ClockWatcher\Joe ClockWatcher\obj\Debug\Joe ClockWatcher.csprojResolveAssemblyReference.cache
