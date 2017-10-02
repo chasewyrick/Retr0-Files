@@ -1,0 +1,6 @@
+C:\Users\velasjos005\Desktop\prgs\Split Number\Split Number\bin\Debug\Split Number.exe.config
+C:\Users\velasjos005\Desktop\prgs\Split Number\Split Number\bin\Debug\Split Number.exe
+C:\Users\velasjos005\Desktop\prgs\Split Number\Split Number\bin\Debug\Split Number.pdb
+C:\Users\velasjos005\Desktop\prgs\Split Number\Split Number\obj\Debug\Split Number.csprojResolveAssemblyReference.cache
+C:\Users\velasjos005\Desktop\prgs\Split Number\Split Number\obj\Debug\Split Number.exe
+C:\Users\velasjos005\Desktop\prgs\Split Number\Split Number\obj\Debug\Split Number.pdb
