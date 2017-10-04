@@ -13,11 +13,17 @@ namespace Joe_ClockWatcher
             Console.Write("Input Current Time: ");
             int Time = int.Parse(Console.ReadLine());
 
-            int shiftleft = 1600 - Time;
-            int hour = shiftleft / 100;
-            int minutes = shiftleft % 100;
+            int endMin = 960;
+            int hour = Time / 100;
+            int minutes = Time % 100;
 
-            Console.Write("Hours: " + hour + " Minutes: " + minutes);
+            minutes = minutes + (hour * 60);
+
+            int timeleft = endMin - minutes;
+            int hoursleft = timeleft / 60;
+            int minutesleft = timeleft % 60;
+
+            Console.Write("Hours: " + hoursleft + " Minutes: " + minutesleft);
 
 
             Console.Read();

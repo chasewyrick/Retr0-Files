@@ -10,3 +10,9 @@ C:\Users\Velasjos005\Desktop\Joe ClockWatcher\Joe ClockWatcher\obj\Debug\Joe Clo
 C:\Users\Velasjos005\Desktop\Joe ClockWatcher\Joe ClockWatcher\bin\Debug\Joe ClockWatcher.exe
 C:\Users\Velasjos005\Desktop\Joe ClockWatcher\Joe ClockWatcher\bin\Debug\Joe ClockWatcher.pdb
 C:\Users\Velasjos005\Desktop\Joe ClockWatcher\Joe ClockWatcher\obj\Debug\Joe ClockWatcher.csprojResolveAssemblyReference.cache
+C:\Users\velasjos005\Desktop\prgs\Joe ClockWatcher\Joe ClockWatcher\bin\Debug\Joe ClockWatcher.exe.config
+C:\Users\velasjos005\Desktop\prgs\Joe ClockWatcher\Joe ClockWatcher\bin\Debug\Joe ClockWatcher.exe
+C:\Users\velasjos005\Desktop\prgs\Joe ClockWatcher\Joe ClockWatcher\bin\Debug\Joe ClockWatcher.pdb
+C:\Users\velasjos005\Desktop\prgs\Joe ClockWatcher\Joe ClockWatcher\obj\Debug\Joe ClockWatcher.csprojResolveAssemblyReference.cache
+C:\Users\velasjos005\Desktop\prgs\Joe ClockWatcher\Joe ClockWatcher\obj\Debug\Joe ClockWatcher.exe
+C:\Users\velasjos005\Desktop\prgs\Joe ClockWatcher\Joe ClockWatcher\obj\Debug\Joe ClockWatcher.pdb
