@@ -1,0 +1,6 @@
+C:\Users\velasjos005\Desktop\prgs\Captain Jack\Captain Jack\bin\Debug\Captain Jack.exe.config
+C:\Users\velasjos005\Desktop\prgs\Captain Jack\Captain Jack\bin\Debug\Captain Jack.exe
+C:\Users\velasjos005\Desktop\prgs\Captain Jack\Captain Jack\bin\Debug\Captain Jack.pdb
+C:\Users\velasjos005\Desktop\prgs\Captain Jack\Captain Jack\obj\Debug\Captain Jack.csprojResolveAssemblyReference.cache
+C:\Users\velasjos005\Desktop\prgs\Captain Jack\Captain Jack\obj\Debug\Captain Jack.exe
+C:\Users\velasjos005\Desktop\prgs\Captain Jack\Captain Jack\obj\Debug\Captain Jack.pdb
